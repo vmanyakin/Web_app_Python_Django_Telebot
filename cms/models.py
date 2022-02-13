@@ -18,4 +18,4 @@ class CmsSlider(models.Model):
         verbose_name_plural = 'Слайды'
 
     def plus(self):
-        return 'Hello world'
+        return 'Hello world5'
