@@ -16,3 +16,6 @@ class CmsSlider(models.Model):
     class Meta:
         verbose_name = 'Слайд'
         verbose_name_plural = 'Слайды'
+
+    def plus(self):
+        return 'Hello world2'
